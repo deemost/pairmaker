@@ -1,6 +1,6 @@
 package com.matcher.pairmaker;
 
-import com.matcher.pairmaker.model.Matcher;
+import com.matcher.pairmaker.service.Matcher;
 import com.matcher.pairmaker.model.Person;
 import com.matcher.pairmaker.model.Tuple;
 

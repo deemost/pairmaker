@@ -1,4 +1,7 @@
-package com.matcher.pairmaker.model;
+package com.matcher.pairmaker.service;
+
+import com.matcher.pairmaker.model.Person;
+import com.matcher.pairmaker.model.Tuple;
 
 import java.util.List;
 
